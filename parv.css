@@ -1,0 +1,18 @@
+
+
+img{
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px dashed black;
+}
+
+h1{
+    text-align: center;
+    
+}
+
+#GREEN {
+    color: green;
+}

@@ -1,0 +1,66 @@
+html {
+    background-color: wheat;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-size: larger;
+    
+}
+
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em
+}
+  
+
+a {
+    font-size: larger;
+    color: blue;
+}
+
+.website {
+    color: black;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+.hr {
+      text-align: center;
+}
+
+big {
+    text-align: center;
+}
+
+.yuva {
+width: 300px;    
+}
+
+.faq {
+
+   font-size: x-large;
+   
+}
+
+.last {
+    color: black;
+  }
+  
+.anchor {
+    text-decoration: none;
+}
+
+#faqpage1 {
+    color: blue;
+    text-decoration: dashed;
+}
